@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g -Wl,--dependency-file=CMakeFiles/Kutuphane_Yonetim_Sistemi.dir/link.d CMakeFiles/Kutuphane_Yonetim_Sistemi.dir/main.cpp.o -o Kutuphane_Yonetim_Sistemi

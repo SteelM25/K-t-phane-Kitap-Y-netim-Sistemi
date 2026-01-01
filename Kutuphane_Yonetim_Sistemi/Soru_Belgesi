@@ -1,0 +1,34 @@
+Bir kütüphanedeki kitapları yönetmek için bir sistem tasarlayın. Bu sistemde, her kitap benzersiz bir Kitap ID ile tanımlanacak ve kitaplar hakkında aşağıdaki bilgiler tutulacaktır:
+    1-) Kitap Adı
+    2-) Yazar Adı
+    3-) Raf No
+
+Sisteminiz aşağıdaki işlemleri gerçekleştirebilmelidir
+---
+
+1-) Kitap ekleme
+    - Kullanıcıdan Kitap ID, kitap adı, yazar adı ve raf numarası alarak kütüphaneye bir kitap ekleyin.
+    - Eğer aynı kitap ID'sine sahip bir kitap zaten eklenmişse, mevcut kitap bilgilerini güncelleyin.
+
+2-) Kitap Bilgilerini Görüntüleme
+    - Kullanıcıdan bir Kitap ID isteyerek o id'ye ait kitabın bilgilerini ekrana yazdırın.
+    - Eğer kitap bulunamazsa uygun bir mesaj gösterin.
+
+3-) Kitap Silme
+    - Kullanıcıdan bir Kitap ID isteyerek, belirtilen kitabı kütüphaneden silin.
+    - Eğer kitap bulunamazsa uygun bir mesaj gönderin.
+
+4-) Tüm Kitapları Listeleme
+    - Kütüphanedeki tüm kitapları Kitap ID sırasına göre listeleyin.
+    - Listeleme sırasında kitabın adı, yazarı ve raf numarasını gösterin.
+
+5-) Çıkış
+    - Sistemden çıkış yapın.
+
+---
+
+Değerlendirme Kriterleri
+
+1-) Kitap bilgilerini bir sınıf kullanarak oluşturmanız gerekmektedir.
+2-) Kitap ID ve kitap bilgilerini saklamak için map kullanmalısınız.
+3-) Kullanıcıdan sürekli giriş alacak şekilde bir menü döngüsü tasarlayın.

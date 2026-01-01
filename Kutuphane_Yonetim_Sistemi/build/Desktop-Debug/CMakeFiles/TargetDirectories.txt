@@ -1,0 +1,7 @@
+/home/musa/Belgeler/C++ Dersleri/Map_Sinifi/Kutuphane_Yonetim_Sistemi/build/Desktop-Debug/CMakeFiles/Kutuphane_Yonetim_Sistemi.dir
+/home/musa/Belgeler/C++ Dersleri/Map_Sinifi/Kutuphane_Yonetim_Sistemi/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/musa/Belgeler/C++ Dersleri/Map_Sinifi/Kutuphane_Yonetim_Sistemi/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/musa/Belgeler/C++ Dersleri/Map_Sinifi/Kutuphane_Yonetim_Sistemi/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/musa/Belgeler/C++ Dersleri/Map_Sinifi/Kutuphane_Yonetim_Sistemi/build/Desktop-Debug/CMakeFiles/install.dir
+/home/musa/Belgeler/C++ Dersleri/Map_Sinifi/Kutuphane_Yonetim_Sistemi/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/musa/Belgeler/C++ Dersleri/Map_Sinifi/Kutuphane_Yonetim_Sistemi/build/Desktop-Debug/CMakeFiles/install/strip.dir
